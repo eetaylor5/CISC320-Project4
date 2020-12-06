@@ -1,0 +1,123 @@
+case=Hello
+input=Spaced Letters: .... . .-.. .-.. ---
+output=HELLO
+case=Goodbye
+input=Spaced Letters: --. --- --- -.. -... -.-- .
+output=
+case=Ada
+input=Spaced Letters: .- -.. .-
+output=ADA
+case=Abcdef12345
+input=Spaced Letters: .- -... -.-. -.. . ..-. .---- ..--- ...-- ....- .....
+output=
+case=Antidisestablishmentarianism
+input=Spaced Letters: .- -. - .. -.. .. ... . ... - .- -... .-.. .. ... .... -- . -. - .- .-. .. .- -. .. ... --
+output=ANTIDISESTABLISHMENTARIANISM
+case=Algorithm
+input=Spaced Letters: .- .-.. --. --- .-. .. - .... --
+output=ALGORITHM
+case=Try
+input=Word: -.-.-.--
+output=KEY
+TRY
+case=Hello
+input=Word: ......-...-..---
+output=HELLO
+case=Ada
+input=Word: .--...-
+output=ADA
+case=The
+input=Word: -.....
+output=THE
+case=Tire
+input=Word: -...-..
+output=NEED
+NINE
+TIRE
+case=Beat
+input=Word: -.....--
+output=BEAT
+BUT
+THAT
+THEM
+case=Total
+input=Word: -----.-.-..
+output=TOTAL
+case=Is
+input=Word: .....
+output=HE
+IS
+SEE
+case=Hello Ada
+input=Spaced Words: ......-...-..--- .--...-
+output=HELLO ADA
+case=Fight That Woodchuck
+input=Spaced Words: ..-...--.....- -.....-- .---------..-.-.......--.-.-.-
+output=FIGHT BEAT WOODCHUCK
+FIGHT BUT WOODCHUCK
+FIGHT THAT WOODCHUCK
+FIGHT THEM WOODCHUCK
+case=These Fish
+input=Spaced Words: -......... ..-..........
+output=THESE FISH
+THIS FISH
+case=The Original Tire
+input=Spaced Words: -..... ---.-...--...-..-.-.. -...-..
+output=THE ORIGINAL NEED
+THE ORIGINAL NINE
+THE ORIGINAL TIRE
+case=Corgi Love
+input=Spaced Words: -.-.---.-.--... .-..---...-.
+output=CORGI LOVE
+CORGI RAGER
+case=Lets Ride
+input=Spaced Words: .-...-... .-...-...
+output=LETS LETS
+LETS RIDE
+RIDE LETS
+RIDE RIDE
+case=Buy A Beast
+input=Spaced Words: -.....--.-- .- -.....-...-
+output=BUY A BEAST
+BUY A TESLA
+case=Antidisestablishmentarianism
+input=Spaced Words: .--.-..-...........-.--....-...........--.-.-.-.-....--......--
+output=ANTIDISESTABLISHMENTARIANISM
+case=He Hisses
+input=Spaced Words: ..... ................
+output=HE HISSES
+IS HISSES
+SEE HISSES
+case=Wing It
+input=Sentence: .--..-.--...-
+output=PET ADA
+WING IT
+case=Stay Safe
+input=Sentence: ...-.--.--....-..-..
+output=SKY SAFE
+SKY SAID
+STATE GIRL
+STAY SAFE
+STAY SAID
+case=How Are You Doing
+input=Sentence: ....---.--.-.-..-.-----..--..---..-.--.
+output=HOW ARE YOU DO UP
+HOW ARE YOU NAME EYE
+HOW ARE YOU TEAM UP
+HOW END YOU DO UP
+HOW END YOU NAME EYE
+HOW END YOU TEAM UP
+HOW ENTER TONE GAME EYE
+case=Meet Too
+input=Sentence: --..--------
+output=ZOOM
+case=Animal Crossing
+input=Sentence: .--...--.-.-..-.-..-.---........-.--.
+output=ANIMAL CROSSING
+case=Get On Zoom
+input=Sentence: --..-----.--..--------
+output=GET ON ZOOM
+MEET ON ZOOM
+case=Code The Algorithm
+input=Sentence: -.-.----...-......-.-..--.---.-...-....--
+output=CODE THE ALGORITHM
